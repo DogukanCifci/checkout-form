@@ -233,3 +233,14 @@ input {
     height: 550px;
   }
 }
+
+.btn {
+  background-color: rgb(227, 157, 28) !important;
+  color: white !important;
+}
+
+.btn:hover {
+  font-size: 1.5rem;
+  transition: 1s;
+  background-color: orange !important;
+}
